@@ -1,5 +1,7 @@
 # 第1回 Biz Beer Bash が開催されました！
 
+![](https://github.com/komoshun/Employer-Branding/blob/master/20180403/20180403-1.jpeg?raw=true)
+
 ## Biz Beer Bash とは
 Reproでは、社内のビジネスサイドと開発サイドの相互の情報共有を主な目的として、「プロダクト共有会」（開発サイドによるプレゼンテーション）及び「顧客事例共有会」（ビジネスサイドによるプレゼンテーション）を隔週で開催しています。
 
