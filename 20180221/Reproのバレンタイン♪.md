@@ -1,12 +1,10 @@
 # Reproにもバレンタインが訪れました♪
 
-![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180221/assets/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-05-09%2016.07.17.png)
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180221/assets/52aa38d9-3cbf-4ca6-b745-b5f162d06f5c.jpeg)
 
 みなさまこんにちは！バックオフィス担当森口です。
 
 2018年2月14日、Reproにもバレンタインが訪れました♪
-
-![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180221/assets/52aa38d9-3cbf-4ca6-b745-b5f162d06f5c.jpeg)
 
 男性比率の高いReproで、バレンタインに浮足立っている（かもしれない）人も多い中、何もしないわけにはいかないだろうとバックオフィス担当3人でお菓子を用意しました！甘いものが苦手なメンバーのためにおせんべいもまぎれこませてあるというすばらしい配慮！！（自画自賛）
 
