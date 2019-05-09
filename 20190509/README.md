@@ -9,3 +9,4 @@
 - 会社HRやwantedlyから記事を転用していく
 
 
+![20180403-1](https://user-images.githubusercontent.com/50096954/57424427-9689aa80-7252-11e9-81e3-c117b12fb79f.jpeg)
