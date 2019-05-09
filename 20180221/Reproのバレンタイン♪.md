@@ -11,7 +11,7 @@
 
 「さて、コーヒーでも飲みに行くか」とコーヒーマシーンのそばまで行ったところで、マリオがお出迎え♪コーヒーのお供に、みなさん喜んでつまんでいってくれたようです。
 
-![alt(https://github.com/komoshun/Employer-Branding/blob/master/20180221/assets/12ead833-23b9-408b-aa99-b3100c30244a.jpeg)
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180221/assets/12ead833-23b9-408b-aa99-b3100c30244a.jpeg)
 
 
 一人1つ程度のささやかな量ではありますが、愛だけはしっかり込めて置かせていただいたところ、夕方にはあっという間に…
