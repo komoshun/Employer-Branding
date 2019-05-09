@@ -2,6 +2,8 @@
 # 世界で勝てるポテンシャルのあるGenericなツール
 
 
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20160318/20180327_KS_00032.JPG)
+
 ## Before Repro
 
 小さいころは父親がPC大好きっ子だったため、ゲームはPCでやれ!という環境でした（笑） そのために何としてもPC9821を触り続けるしかなかったため、ちょっと変ったタイプだったと記憶しています。 
