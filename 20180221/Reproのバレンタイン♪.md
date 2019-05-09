@@ -1,7 +1,5 @@
 # Reproにもバレンタインが訪れました♪
 
-![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180221/assets/52aa38d9-3cbf-4ca6-b745-b5f162d06f5c.jpeg)
-
 みなさまこんにちは！バックオフィス担当森口です。
 
 2018年2月14日、Reproにもバレンタインが訪れました♪
