@@ -1,6 +1,10 @@
 # 「受け」のエンジニアから「攻め」のCREへ。チームリーダーを志した男の覚悟の物語
 
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180823/00666bc3-338b-490d-aafa-5468f114598a.jpeg)
+
 ## 自分のエンジニアとしての価値に不安を抱いたSES時代
+
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180823/b7a83bf3-143e-4f59-9f2d-0ee10973eb10.jpeg)
 
 ▲前職の研修時代。課題が多くしんどかった日も。この頃は自分がエンジニアとしての適性があるのかどうか確信が持てなかった
 
@@ -25,6 +29,8 @@
 そう感じた僕は、本気で転職活動をはじめようとさっそく転職エージェントに相談。提示する条件として「自分の成長が望めること」を強調しました。そこで紹介してもらった企業の中にあったのが、Reproでした。
 
 ## 「ここだったら絶対成長できる」そう思わせた面接とトライアル入社
+
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180823/32b094a4-5a33-464e-9e56-c26fac843ced.jpeg)
 
 ▲2018年3月に行なわれた社員総会後の懇親会にて。VPoE三木（写真右）とは公私ともによく話す
 
@@ -74,7 +80,7 @@ Reproが誇るマーケティングツール「Repro」を導入しているク�
 
 ## チームのリーダーとしての目標はCREの価値を世に広めていくこと
 
-
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180823/81113baf-8bbb-426c-b96b-246709214865.jpeg)
 
 ▲CREチームのデイリーミーティング風景。各自の業務の進捗確認や相談などをする場だが、毎日のことだからこそ「楽しく」を意識している
 
