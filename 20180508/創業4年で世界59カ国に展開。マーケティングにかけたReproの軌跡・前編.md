@@ -1,8 +1,14 @@
 # 創業4年で世界59カ国に展開。マーケティングにかけたReproの軌跡・前編
 
+
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180508/IMG_3720.jpg)
+
+
 世界中のアプリの成長を支援するーーアプリのマーケティングツールを提供しているRepro株式会社は、ツールの提供以外にもアプリの戦略立案から運用までを一気通貫で支援しています。代表取締役の平田祐介が、このビジネスモデルに到達するまでの波乱に満ちた歩みを振り返ります。
 
 ## 未踏の地への憧れが、僕を起業家の道へと導いた
+
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180508/b4f7d008-f639-4f3b-a450-b5b636ed2bb1.png)
 
 （写真：高校時代の平田。アルバイトで稼いだお金で単身ヨーロッパへと渡った）
 
@@ -53,6 +59,7 @@
 
 ## なぜ売れないのかーー自分の足で見出した“答え”
 
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180508/1864c75a-2338-44af-8fdb-a43ed01d4255.png)
 
 （写真：平田にとってReproは、3社目に起業した会社。なかなか売れなかった苦労が、“一気通貫”のビジネスモデルへと誘った）
 
@@ -77,6 +84,7 @@
 資金ショートの危機です。
 
 ## 瀕死の状態で手にした“ブランド力”から見えてきたもの
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180508/0a91549d-6ab2-4eff-b9d2-8d4f7b0211d8.png)
 
 （写真：瀕死の状態で手にした、B Dash Campピッチアリーナでの優勝）
 
