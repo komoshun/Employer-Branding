@@ -1,8 +1,10 @@
 # “学生さん”ではなく“チームの一員”ーー望んでいた環境はReproにあった
 
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180823/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-05-10%2017.15.14.png)
+
 ## もっと主体的に動ける職場を求め、たどり着いたのがReproだった
 
-
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180823/50f65409-3e78-417a-bced-1a280e816680.jpeg)
 
 ▲大学の入学式にて。インターンとして働くことは早い段階で意識していた
 
@@ -26,7 +28,7 @@ Reproと出会ったのはそんなときでした。
 
 ## まさに望んでいた環境ーーチームをつくる仲間のひとりとして働く楽しさ
 
-
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180823/b0663088-f482-4f1c-a72d-07e6a0d49e7d.jpeg)
 
 ▲チームのデイリーミーティング。進捗共有がメインだが、自分の意見や考えを求められることもある
 
@@ -51,6 +53,7 @@ Reproと出会ったのはそんなときでした。
 
 ## 地道な調査が実を結ぶ。それがASOの醍醐味
 
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180823/0776f3d4-f236-4f19-8f12-6aa9117378e1.jpeg)
 
 
 ▲勤務中は淡々と作業をする時間が大半を占めるが、考えることも多く苦痛に思うことはない
@@ -71,7 +74,7 @@ ASOとは、App Store Optimizationの略。アプリストアの最適化、と�
 
 ## まずはASOチームで一人前に。そして次のステップへ
 
-
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180823/423b3a71-9d5f-4dd0-8188-bee895271cfb.jpeg)
 
 ▲新しく入ってきたインターンを指導する稲田。インターンリーダーとしての役割を期待されている
 
