@@ -1,8 +1,10 @@
 # 未踏の分野だからこそやりがいがあるーーエンジニア中江が語るSDK開発の魅力
 
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180801/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-05-10%2016.32.26.png)
 
 ## Reproの第一印象は「前のめりな一匹狼の集団」
 
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180801/b63f11b1-5c30-49df-9f6b-bceea458697b.jpeg)
 
 ▲研究者になるのが夢だった子ども時代。中学校にて開催された弁論大会で挑んだテーマは「人間・植物・動物」……？
 
@@ -28,7 +30,7 @@ SI、システムコンサルト系の会社で数年働いたのちフリーラ
 
 ## 会社最大の危機で感じたReproの底力
 
-
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180801/8a686f73-fd48-453a-babd-0e69220a7dc0.jpeg)
 
 ▲西新宿オフィスで頻繁に開催されていた自炊イベント「Repro飯」。写真右下が中江
 
@@ -50,6 +52,7 @@ SI、システムコンサルト系の会社で数年働いたのちフリーラ
 
 ## ReproでのSDK開発の魅力は、まだ世の中にないものをつくること
 
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180801/a8adb8a0-bcf9-4c3d-8a59-489ad0dfd3e5.jpeg)
 
 ▲SDK開発チームのデイリーミーティング風景。日々メンバーとSlackなどで細かくコミュニケーションを取っているが、対面での進捗共有も欠かさず行う
 
@@ -70,6 +73,8 @@ ReproのSDKを簡単に、かつ信頼感をもってクライアントに導入
 技術者として、とても魅力的ではないでしょうか。
 
 ## 「世界中のアプリを支援する」から「世界中の人を幸せにする」Reproへ
+
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180801/3fb61ccf-80b6-44c8-b600-237f08c2f7be.jpeg)
 
 ▲オフィス内コーヒーマシン前にて。総務スタッフが厳選したこだわりのコーヒーで一息つく
 
