@@ -33,7 +33,7 @@ Growth Marketingチーム楯弥生がITへの道を歩み出したのは学生�
 
 ## Webディレクターのキャリアを積み、初の女性社員としてReproに入社
 
-![alt](https://github.com/komoshun/Employer-Branding/tree/master/20190107.jpg)
+![alt](https://github.com/komoshun/Employer-Branding/blob/master/20190107/2-1.jpg)
 
 ▲Repro入社のきっかけを作った三木とは2012年のStartupイベントで知り合った（写真：右から2番目が楯、左から4番目が三木）
 入社後1年間はほぼ研修というぐらい、非常に手厚く新卒の面倒を見てくれる会社だったので、ビジネスパーソンとしての基礎やITの基本知識は、1社目の会社でしっかりと身に着けることができました。ただ、法人向けの業務システムを扱う仕事だったため、やはりB2Cの仕事がしたいという思いを捨てきれず、転職を決意。
