@@ -1,6 +1,6 @@
 # あの、"すべて熟知Tシャツ"の話
 
-![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180501/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-05-09%2018.41.16.png)
+![alt](./%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-05-09%2018.41.16.png)
 
 
 
@@ -27,7 +27,7 @@
 
 ## 映画を見直し・・・映画部が発足しました！
 
-![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180501/42817963-8f1a-4c6b-8c2c-3bb2ebe52faa.jpeg)
+![alt](./42817963-8f1a-4c6b-8c2c-3bb2ebe52faa.jpeg)
 
 この事実を社内にも広めるべく、CSOの越後の呼びかけで当映画の鑑賞会が行われました。
 
@@ -36,7 +36,7 @@
 
 一度鑑賞し終わった後も、個々人が気になった場面をリプレイしながら、見ればみるほど議論の余地があるこの映画をもう一度堪能しました。
 
-![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180501/c9fb7f5d-6bc9-47cc-bc94-9006a898b9be.jpeg)
+![alt](./c9fb7f5d-6bc9-47cc-bc94-9006a898b9be.jpeg)
 
 そしてこの後、Repro映画部が正式に発足することになりました！
 
