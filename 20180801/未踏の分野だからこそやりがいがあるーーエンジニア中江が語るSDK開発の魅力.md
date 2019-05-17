@@ -74,7 +74,7 @@ ReproのSDKを簡単に、かつ信頼感をもってクライアントに導入
 
 ## 「世界中のアプリを支援する」から「世界中の人を幸せにする」Reproへ
 
-![alt](https://github.com/komoshun/Employer-Branding/blob/master/20180801/3fb61ccf-80b6-44c8-b600-237f08c2f7be.jpeg)
+![alt](3fb61ccf-80b6-44c8-b600-237f08c2f7be.jpeg)
 
 ▲オフィス内コーヒーマシン前にて。総務スタッフが厳選したこだわりのコーヒーで一息つく
 
